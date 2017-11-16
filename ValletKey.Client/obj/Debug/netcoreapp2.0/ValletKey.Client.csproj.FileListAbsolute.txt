@@ -1,0 +1,11 @@
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.Client\bin\Debug\netcoreapp2.0\ValletKey.Client.deps.json
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.Client\bin\Debug\netcoreapp2.0\ValletKey.Client.runtimeconfig.json
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.Client\bin\Debug\netcoreapp2.0\ValletKey.Client.runtimeconfig.dev.json
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.Client\bin\Debug\netcoreapp2.0\ValletKey.Client.dll
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.Client\obj\Debug\netcoreapp2.0\ValletKey.Client.csprojResolveAssemblyReference.cache
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.Client\obj\Debug\netcoreapp2.0\ValletKey.Client.csproj.CoreCompileInputs.cache
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.Client\obj\Debug\netcoreapp2.0\ValletKey.Client.AssemblyInfoInputs.cache
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.Client\obj\Debug\netcoreapp2.0\ValletKey.Client.AssemblyInfo.cs
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.Client\bin\Debug\netcoreapp2.0\ValletKey.Client.pdb
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.Client\obj\Debug\netcoreapp2.0\ValletKey.Client.dll
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.Client\obj\Debug\netcoreapp2.0\ValletKey.Client.pdb

@@ -1,0 +1,11 @@
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.API\bin\Debug\netcoreapp2.0\ValletKey.API.deps.json
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.API\bin\Debug\netcoreapp2.0\ValletKey.API.runtimeconfig.json
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.API\bin\Debug\netcoreapp2.0\ValletKey.API.runtimeconfig.dev.json
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.API\bin\Debug\netcoreapp2.0\ValletKey.API.dll
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.API\obj\Debug\netcoreapp2.0\ValletKey.API.csprojResolveAssemblyReference.cache
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.API\obj\Debug\netcoreapp2.0\ValletKey.API.csproj.CoreCompileInputs.cache
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.API\obj\Debug\netcoreapp2.0\ValletKey.API.AssemblyInfoInputs.cache
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.API\obj\Debug\netcoreapp2.0\ValletKey.API.AssemblyInfo.cs
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.API\bin\Debug\netcoreapp2.0\ValletKey.API.pdb
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.API\obj\Debug\netcoreapp2.0\ValletKey.API.dll
+C:\Prozetcs\ValletKeySample\ValletKeyCloudArch\ValletKey.API\obj\Debug\netcoreapp2.0\ValletKey.API.pdb
