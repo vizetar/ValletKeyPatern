@@ -14,18 +14,15 @@ namespace ValletKey.Client
     {
         public static void Main(string[] args)
         {
-            //Console.WriteLine("Press any key to run sample...");
-            //Console.ReadKey();
+
             UploadFileAsync().Wait();
             Console.ReadLine();
-
-
         }
 
         private static async Task UploadFileAsync()
         {
-            // Make sure the endpoint matches with the web role's endpoint.
-            var tokenServiceEndpoint = "http://localhost:55245/api/SASToken";
+            // sas token api endpoint
+            var tokenServiceEndpoint = "http://127.0.0.1:81/api/SASToken";
 
             try
             {
